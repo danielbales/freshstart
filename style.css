@@ -10,4 +10,5 @@ h3 {
 
 img {
   max-width: 1024px;
+  display: block;
 }
