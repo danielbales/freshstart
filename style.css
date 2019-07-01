@@ -20,3 +20,16 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
+
+.bottom-menu {
+  text-align: center;
+}
+
+#top-logo {
+  float: left;
+}
+
+#VIP {
+      float: right;
+      margin-top: 16px;
+}
